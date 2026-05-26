@@ -8,6 +8,10 @@
 
 ### I build secure, cloud-native, high-performance applications across retail, telecom, and banking.
 
+[![Current Role](https://img.shields.io/badge/Current-Costco_Wholesale_IT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-parangi-05655b126/)
+[![Location](https://img.shields.io/badge/West_Des_Moines-Iowa-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-parangi-05655b126/)
+[![LinkedIn Network](https://img.shields.io/badge/LinkedIn-1K_followers_%7C_500%2B_connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-parangi-05655b126/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-16a34a?style=for-the-badge&logo=vercel&logoColor=white)](https://sandeepkumarparangi.github.io/sandeep-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep_Kumar_Parangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-parangi-05655b126/)
 [![Email](https://img.shields.io/badge/Email-sandeepparangi97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepparangi97@gmail.com)
@@ -26,6 +30,17 @@ I work across the full engineering lifecycle: API design, cloud deployment, even
 ```text
 Current focus: Cloud-native Java systems, event-driven platforms, AI-assisted engineering, and reliable user-facing products.
 ```
+
+## LinkedIn Snapshot
+
+| Signal | Details |
+| --- | --- |
+| Current company | Costco Wholesale IT |
+| Location | West Des Moines, Iowa, United States |
+| Network | 1K followers and 500+ connections |
+| Education | University of Central Missouri |
+| Certification | AWS Certified Developer - Associate |
+| Professional theme | Scalable microservices architecture, resilient backend systems, cloud-native delivery, and modern full stack engineering |
 
 ## Impact Snapshot
 
