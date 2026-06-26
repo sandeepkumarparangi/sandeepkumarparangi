@@ -175,6 +175,7 @@ Current focus: Cloud-native Java systems, event-driven platforms, AI-assisted en
 
 - Master of Science in Computer Information Systems, University of Central Missouri
 - AWS Certified Developer Associate
+- GCP Cloud Engineer - Associate
 
 ## Let's Connect
 
