@@ -39,8 +39,8 @@ Current focus: Cloud-native Java systems, event-driven platforms, AI-assisted en
 | Location | West Des Moines, Iowa, United States |
 | Network | 1K followers and 500+ connections |
 | Education | University of Central Missouri |
-| Certification | AWS Certified Developer - Associate 
-GCP Cloud Engineer - Associate|
+| Certification | AWS Certified Developer - Associate and GCP Cloud Engineer - Associate
+|
 | Professional theme | Scalable microservices architecture, resilient backend systems, cloud-native delivery, and modern full stack engineering |
 
 ## Impact Snapshot
